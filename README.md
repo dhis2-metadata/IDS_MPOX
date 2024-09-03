@@ -1,2 +1,2 @@
-# NTD_AGG
-Neglected Tropical Diseases
+# IDS_MPOX
+Integrated Disease Surveillance - MPOX
