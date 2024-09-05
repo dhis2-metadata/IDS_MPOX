@@ -3068,7 +3068,91 @@
         }
     ],
     "dataEntryForms": [],
-    "dataSets": [],
+    "dataSets": [
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "IDS_MPOX_AGG",
+            "compulsoryDataElementOperands": [],
+            "compulsoryFieldsCompleteOnly": false,
+            "dataElementDecoration": false,
+            "dataInputPeriods": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "Fffxbp12KPQ"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iNshzGY00V9"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kb5ALqa3Dxc"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "SrRC7ZT7Hqk"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "B28rjUGyXJn"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GneT1bovkBP"
+                    }
+                }
+            ],
+            "expiryDays": 0,
+            "fieldCombinationRequired": false,
+            "id": "EZHrLLl8gYx",
+            "indicators": [],
+            "legendSets": [],
+            "mobile": false,
+            "name": "Mpox surveillance",
+            "noValueRequiresComment": false,
+            "notifyCompletingUser": false,
+            "openFuturePeriods": 52,
+            "openPeriodsAfterCoEndDate": 0,
+            "periodType": "Weekly",
+            "renderAsTabs": false,
+            "renderHorizontally": false,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-r-----",
+                "userGroups": {
+                    "KKKxfgfG9KX": {
+                        "access": "r-rw----",
+                        "id": "KKKxfgfG9KX"
+                    },
+                    "N3dBbzCFucc": {
+                        "access": "r-r-----",
+                        "id": "N3dBbzCFucc"
+                    },
+                    "X47wAoL9dvb": {
+                        "access": "rw------",
+                        "id": "X47wAoL9dvb"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Mpox surveillance",
+            "skipOffline": false,
+            "timelyDays": 0,
+            "translations": [],
+            "validCompleteOnly": false,
+            "version": 6
+        }
+    ],
     "documents": [],
     "eventVisualizations": [],
     "indicatorGroupSets": [],
@@ -3588,7 +3672,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 4
+            "version": 6
         },
         {
             "attributeValues": [],
@@ -3628,7 +3712,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 1
+            "version": 3
         },
         {
             "attributeValues": [],
@@ -3674,7 +3758,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 4
+            "version": 6
         },
         {
             "attributeValues": [],
@@ -3714,7 +3798,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 4
+            "version": 6
         },
         {
             "attributeValues": [],
@@ -3760,7 +3844,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 4
+            "version": 6
         },
         {
             "attributeValues": [],
@@ -3806,7 +3890,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 4
+            "version": 6
         },
         {
             "attributeValues": [],
@@ -3867,7 +3951,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 4
+            "version": 6
         },
         {
             "attributeValues": [],
@@ -3907,7 +3991,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 1
+            "version": 3
         },
         {
             "attributeValues": [],
@@ -3962,7 +4046,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 4
+            "version": 6
         },
         {
             "attributeValues": [],
@@ -4005,7 +4089,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 1
+            "version": 3
         },
         {
             "attributeValues": [],
@@ -4045,7 +4129,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 5
+            "version": 7
         },
         {
             "attributeValues": [],
@@ -4844,7 +4928,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 16
+            "version": 18
         },
         {
             "attributeValues": [],
@@ -4955,7 +5039,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 25
+            "version": 27
         }
     ],
     "options": [
@@ -14177,7 +14261,7 @@
         "description": "Integrated Disease Surveillance - Mpox",
         "healthAreaCode": "IDS",
         "healthAreaName": "Integrated Disease Surveillance",
-        "lastUpdated": "20240905T122927",
+        "lastUpdated": "20240905T132024",
         "locale": "en",
         "name": "IDS_MPOX_TRK_DHIS2.40.4.1-en",
         "type": "TRK",
@@ -15333,7 +15417,60 @@
         }
     ],
     "reports": [],
-    "sections": [],
+    "sections": [
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "kb5ALqa3Dxc"
+                },
+                {
+                    "id": "B28rjUGyXJn"
+                }
+            ],
+            "dataSet": {
+                "id": "EZHrLLl8gYx"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "dtX9J8hBco6",
+            "indicators": [],
+            "name": "Laboratory",
+            "showColumnTotals": false,
+            "showRowTotals": true,
+            "sortOrder": 2,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "SrRC7ZT7Hqk"
+                },
+                {
+                    "id": "Fffxbp12KPQ"
+                },
+                {
+                    "id": "GneT1bovkBP"
+                },
+                {
+                    "id": "iNshzGY00V9"
+                }
+            ],
+            "dataSet": {
+                "id": "EZHrLLl8gYx"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "eBMTXiyBDT8",
+            "indicators": [],
+            "name": "Surveillance",
+            "showColumnTotals": false,
+            "showRowTotals": true,
+            "sortOrder": 1,
+            "translations": []
+        }
+    ],
     "sqlViews": [],
     "trackedEntityAttributes": [
         {
