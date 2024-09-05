@@ -1590,10 +1590,10 @@
             "attributeValues": [],
             "categoryOptions": [
                 {
-                    "id": "UPvKbcqTEY3"
+                    "id": "afpMrUgPzl3"
                 },
                 {
-                    "id": "afpMrUgPzl3"
+                    "id": "UPvKbcqTEY3"
                 }
             ],
             "code": "GEN_LIB_AGG",
@@ -3082,32 +3082,50 @@
             "dataSetElements": [
                 {
                     "dataElement": {
+                        "id": "B28rjUGyXJn"
+                    },
+                    "dataSet": {
+                        "id": "EZHrLLl8gYx"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "Fffxbp12KPQ"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iNshzGY00V9"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kb5ALqa3Dxc"
+                    },
+                    "dataSet": {
+                        "id": "EZHrLLl8gYx"
                     }
                 },
                 {
                     "dataElement": {
                         "id": "SrRC7ZT7Hqk"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "B28rjUGyXJn"
+                    },
+                    "dataSet": {
+                        "id": "EZHrLLl8gYx"
                     }
                 },
                 {
                     "dataElement": {
                         "id": "GneT1bovkBP"
+                    },
+                    "dataSet": {
+                        "id": "EZHrLLl8gYx"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iNshzGY00V9"
+                    },
+                    "dataSet": {
+                        "id": "EZHrLLl8gYx"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kb5ALqa3Dxc"
+                    },
+                    "dataSet": {
+                        "id": "EZHrLLl8gYx"
                     }
                 }
             ],
@@ -14261,7 +14279,7 @@
         "description": "Integrated Disease Surveillance - Mpox",
         "healthAreaCode": "IDS",
         "healthAreaName": "Integrated Disease Surveillance",
-        "lastUpdated": "20240905T132024",
+        "lastUpdated": "20240905T142638",
         "locale": "en",
         "name": "IDS_MPOX_TRK_DHIS2.40.4.1-en",
         "type": "TRK",
