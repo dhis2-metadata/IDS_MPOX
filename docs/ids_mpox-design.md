@@ -1,2 +1,2 @@
-# Mpox surveillance toolkit
+# Mpox Surveillance Toolkit
 
