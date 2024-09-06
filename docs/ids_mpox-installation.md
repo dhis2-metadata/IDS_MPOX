@@ -5,8 +5,8 @@ DHIS2 version: D2.40 (and above)
 System default language: English
 
 Components:
-1. IDS_MPOX Surveillance Aggregate package
-2. IDS_MPOX Surveillance Dashboard package
+1. [IDS-MPOX Surveillance Aggregate package](#ids-mpox-surveillance-aggregate-package)
+2. [IDS-MPOX Surveillance Dashboard package](#ids-mpox-surveillance-dashboard-package)
 3. IDS-MPOX Case Surveillance - CRF (Case Report form) tracker
 4. IDS-MPOX Case Surveillance - CIF (Case Investigation Form) tracker
 5. IDS-MPOX - Complete package
@@ -38,5 +38,21 @@ Great care should be taken to ensure that the server itself and the DHIS2 applic
 
 The **metadata reference** and **metadata json** files provide technical details on package version and content.
 While not always necessary, it can often required to make certain modifications to the metadata file before importing it into DHIS2.
+
+## Selection of required component
+
+### IDS-MPOX Surveillance Aggregate Package
+
+The package contains:
+- 1 weekly data set
+- 6 data elements
+- 11 indicators
+- 1 dashboard
+
+It can be installed as a standalone package. The output data can be accessed on the dashboard that is included or integrated in other dashboards and reporting tools.
+
+### IDS-MPOX Surveillance Dashboard package
+
+
 
 
