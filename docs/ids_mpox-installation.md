@@ -15,7 +15,7 @@ Components:
 
 Installation of the modules consists of several steps:
 
-1. [Selectiopn](#selection-of-required-component) of the required component
+1. [Selection](#selection-of-required-component) of the required component
 2. [Preparing](#preparing-the-metadata-file) the metadata file.
 3. [Importing](#importing-metadata) the metadata file into DHIS2.
 4. [Configuring](#configuration) the imported metadata.
