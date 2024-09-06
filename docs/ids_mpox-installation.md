@@ -7,7 +7,7 @@ System default language: English
 Components:
 1. [IDS-MPOX Surveillance Aggregate package](#ids-mpox-surveillance-aggregate-package)
 2. [IDS-MPOX Surveillance Dashboard package](#ids-mpox-surveillance-dashboard-package)
-3. IDS-MPOX Case Surveillance - CRF (Case Report form) tracker
+3. [IDS-MPOX Case Surveillance CRF (Case Report form) tracker](#ids-mpox-case-surveillance-crf-tracker)
 4. IDS-MPOX Case Surveillance - CIF (Case Investigation Form) tracker
 5. IDS-MPOX - Complete package
 
@@ -47,11 +47,24 @@ The package contains:
 - 1 weekly data set
 - 6 data elements
 - 11 indicators
-- 1 dashboard
+- 1 preconfigured dashboard
 
-It can be installed as a standalone package. The output data can be accessed on the dashboard that is included or integrated in other dashboards and reporting tools.
+It can be installed as a standalone package. The output data can be visualised on the included dashboard or integrated in other dashboards and reporting tools.
+
+Some indicators will require population data in denominators. There are 2 ways to map utilise population data for the included indicators:
+1. Total population data can be mapped to the included Generic data element
+2. Implementer can replace denominator data elements with the ones present in the system.
 
 ### IDS-MPOX Surveillance Dashboard package
+
+The package contains:
+- 1 preconfigured dashboard
+- 11 indicators with placeholder numerators and denominators.
+
+When installing this package, implementers will have to map existing data elements to the corresponding numerators and denominators of the included indicators.
+
+### IDS-MPOX Case Surveillance CRF tracker
+
 
 
 
