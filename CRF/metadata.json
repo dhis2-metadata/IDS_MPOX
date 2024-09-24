@@ -4227,6 +4227,9 @@
             "id": "zP920PRJqMi",
             "legendSets": [],
             "name": "CS - MPOX: Vaccine brand second smallpox/mpox vaccine",
+            "optionSet": {
+                "id": "oQLxUvpcVDy"
+            },
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -5330,7 +5333,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 30
+            "version": 33
         },
         {
             "attributeValues": [],
@@ -5373,7 +5376,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 28
+            "version": 31
         },
         {
             "attributeValues": [],
@@ -5425,7 +5428,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 30
+            "version": 33
         },
         {
             "attributeValues": [],
@@ -5474,7 +5477,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 24
+            "version": 27
         },
         {
             "attributeValues": [],
@@ -5514,7 +5517,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 30
+            "version": 33
         },
         {
             "attributeValues": [],
@@ -5560,7 +5563,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 30
+            "version": 33
         },
         {
             "attributeValues": [],
@@ -5606,7 +5609,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 30
+            "version": 33
         },
         {
             "attributeValues": [],
@@ -5667,7 +5670,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 30
+            "version": 33
         },
         {
             "attributeValues": [],
@@ -5707,7 +5710,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 27
+            "version": 30
         },
         {
             "attributeValues": [],
@@ -5759,7 +5762,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 30
+            "version": 33
         },
         {
             "attributeValues": [],
@@ -5802,7 +5805,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 27
+            "version": 30
         },
         {
             "attributeValues": [],
@@ -5851,7 +5854,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 31
+            "version": 34
         },
         {
             "attributeValues": [],
@@ -5894,7 +5897,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 21
+            "version": 24
         },
         {
             "attributeValues": [],
@@ -5940,7 +5943,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 21
+            "version": 24
         },
         {
             "attributeValues": [],
@@ -5989,7 +5992,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 21
+            "version": 24
         },
         {
             "attributeValues": [],
@@ -6029,7 +6032,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 23
+            "version": 26
         },
         {
             "attributeValues": [],
@@ -6828,7 +6831,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 42
+            "version": 45
         }
     ],
     "options": [
@@ -15996,7 +15999,7 @@
         },
         {
             "attributeValues": [],
-            "code": "YES_PPOST_EXPOSURE_PROPHYLAXIS",
+            "code": "YES_POST_EXPOSURE_PROPHYLAXIS",
             "id": "D22c7APEgPg",
             "name": "Yes - Post-exposure prophylaxis",
             "optionSet": {
@@ -16123,7 +16126,7 @@
         "description": "Integrated Disease Surveillance - Mpox Case Surveillance - Case Report Form",
         "healthAreaCode": "IDS",
         "healthAreaName": "Integrated Disease Surveillance",
-        "lastUpdated": "20240920T183402",
+        "lastUpdated": "20240924T114621",
         "locale": "en",
         "name": "IDS_MPOX_CRF_TRK_DHIS2.40.4.1-en",
         "type": "TRK",
@@ -16926,7 +16929,7 @@
             },
             "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
             "translations": [],
-            "useCodeForOptionSet": true,
+            "useCodeForOptionSet": false,
             "valueType": "TRUE_ONLY"
         },
         {
@@ -16940,7 +16943,7 @@
             },
             "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
             "translations": [],
-            "useCodeForOptionSet": true,
+            "useCodeForOptionSet": false,
             "valueType": "TRUE_ONLY"
         },
         {
@@ -16996,7 +16999,7 @@
             },
             "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
             "translations": [],
-            "useCodeForOptionSet": true,
+            "useCodeForOptionSet": false,
             "valueType": "TRUE_ONLY"
         },
         {
@@ -17167,7 +17170,7 @@
             "translations": []
         },
         {
-            "condition": "!d2:hasValue('MPOX_VACCINATION_FIRST_DOSE_THIS_EVENT')||\n(#{MPOX_VACCINATION_FIRST_DOSE_THIS_EVENT}!='YES_PRE_EXPOSURE_PROPHYLAXIS' && #{MPOX_VACCINATION_FIRST_DOSE_THIS_EVENT}!='YES_PRE_EXPOSURE_PROPHYLAXIS')",
+            "condition": "!d2:hasValue('MPOX_VACCINATION_FIRST_DOSE_THIS_EVENT')||\n(#{MPOX_VACCINATION_FIRST_DOSE_THIS_EVENT}!='YES_PRE_EXPOSURE_PROPHYLAXIS' && #{MPOX_VACCINATION_FIRST_DOSE_THIS_EVENT}!='YES_POST_EXPOSURE_PROPHYLAXIS')",
             "description": "Hide all information related to the first dose of vaccines received on this event (CRF)",
             "id": "ZyEEQjzcYPr",
             "name": "CS - MPOX: Hide all information related to the first dose of vaccines received on this event (CRF)",
@@ -17186,7 +17189,7 @@
             "translations": []
         },
         {
-            "condition": "!d2:hasValue('MPOX_VACCINATION_SECOND_DOSE_THIS_EVENT')||\n(#{MPOX_VACCINATION_SECOND_DOSE_THIS_EVENT}!='YES_PRE_EXPOSURE_PROPHYLAXIS' && #{MPOX_VACCINATION_SECOND_DOSE_THIS_EVENT}!='YES_PRE_EXPOSURE_PROPHYLAXIS')",
+            "condition": "!d2:hasValue('MPOX_VACCINATION_SECOND_DOSE_THIS_EVENT')||\n(#{MPOX_VACCINATION_SECOND_DOSE_THIS_EVENT}!='YES_PRE_EXPOSURE_PROPHYLAXIS' && #{MPOX_VACCINATION_SECOND_DOSE_THIS_EVENT}!='YES_POST_EXPOSURE_PROPHYLAXIS')",
             "description": "Hide all information related to the second dose of vaccines received on this event (CRF)",
             "id": "brHcpbFCMiJ",
             "name": "CS - MPOX: Hide all information related to the second dose of vaccines received on this event (CRF)",
@@ -17318,40 +17321,22 @@
             },
             "programRuleActions": [
                 {
-                    "id": "xHTIMD6LYP8"
-                },
-                {
-                    "id": "uNqeoZf6Nau"
-                },
-                {
-                    "id": "epvT1Wqseuw"
-                },
-                {
-                    "id": "Kwzlc2p8hHJ"
-                },
-                {
-                    "id": "nBFXXWAPc2G"
-                },
-                {
-                    "id": "dyLcXgAWdQS"
-                },
-                {
-                    "id": "OQ9cadXXntj"
-                },
-                {
-                    "id": "NBW4o3pOWdz"
-                },
-                {
-                    "id": "k17NMABfpka"
-                },
-                {
                     "id": "y5SUXFWz5Ah"
+                },
+                {
+                    "id": "xHTIMD6LYP8"
                 },
                 {
                     "id": "j5eQ02R1YGV"
                 },
                 {
+                    "id": "uNqeoZf6Nau"
+                },
+                {
                     "id": "BC4Ua4FGdTq"
+                },
+                {
+                    "id": "epvT1Wqseuw"
                 },
                 {
                     "id": "gFLcOHs8HPd"
@@ -17364,6 +17349,18 @@
                 },
                 {
                     "id": "W0WvebC9ySF"
+                },
+                {
+                    "id": "Kwzlc2p8hHJ"
+                },
+                {
+                    "id": "nBFXXWAPc2G"
+                },
+                {
+                    "id": "dyLcXgAWdQS"
+                },
+                {
+                    "id": "OQ9cadXXntj"
                 },
                 {
                     "id": "JGIjT8AgUhf"
@@ -17379,6 +17376,12 @@
                 },
                 {
                     "id": "vOvbwGlcdlo"
+                },
+                {
+                    "id": "NBW4o3pOWdz"
+                },
+                {
+                    "id": "k17NMABfpka"
                 }
             ],
             "translations": []
@@ -17803,7 +17806,7 @@
             "programStage": {
                 "id": "eLXTdj2wNZt"
             },
-            "sortOrder": 1,
+            "sortOrder": 2,
             "translations": []
         },
         {
@@ -17881,7 +17884,7 @@
             "programStage": {
                 "id": "eLXTdj2wNZt"
             },
-            "sortOrder": 3,
+            "sortOrder": 4,
             "translations": []
         },
         {
@@ -17914,7 +17917,7 @@
             "programStage": {
                 "id": "eLXTdj2wNZt"
             },
-            "sortOrder": 0,
+            "sortOrder": 1,
             "translations": []
         },
         {
@@ -17929,7 +17932,7 @@
             "programStage": {
                 "id": "eLXTdj2wNZt"
             },
-            "sortOrder": 2,
+            "sortOrder": 3,
             "translations": []
         },
         {
@@ -18104,7 +18107,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "THB84E3LZ24",
+                    "id": "FyByHb7dWq2",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18133,7 +18136,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "TmgwLHY67Nr",
+                    "id": "Jgffz5oSEFx",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18162,7 +18165,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ZSewt7llbAZ",
+                    "id": "ySoxkFvMC5G",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18191,7 +18194,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "xndMeadn2YB",
+                    "id": "DPuNUuPXwwH",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18220,7 +18223,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "AeT17M0bwTZ",
+                    "id": "eaLKrVXvSeN",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18249,7 +18252,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "xTx6I5JM2Go",
+                    "id": "UVYdrledYZ5",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18278,7 +18281,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "zy2kGWErJlO",
+                    "id": "UerEhLdp9Fn",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18307,7 +18310,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "CvgSEIxLrhH",
+                    "id": "JMaHEGhsnfA",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18336,7 +18339,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Z4NywjmpbOi",
+                    "id": "nWDJU9sIdMz",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18365,7 +18368,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "UjKM2LqPhDS",
+                    "id": "DMx2i512HmA",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18394,7 +18397,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "AngIWpBfq5r",
+                    "id": "YA5KQy0YYJb",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18423,7 +18426,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "mM5FNF6QJDA",
+                    "id": "iAV874A3za4",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18452,7 +18455,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "oBJSyn4nPX4",
+                    "id": "EspVFXI7YTU",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18481,7 +18484,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "rgxZQkGJK3W",
+                    "id": "YbXR75Ui3bF",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18510,7 +18513,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "XAET9w5aBK8",
+                    "id": "DRSxnRkMEVU",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18539,7 +18542,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ELng2epTHrg",
+                    "id": "dcs2njAz6pQ",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18568,7 +18571,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "nnQbnHgnWGb",
+                    "id": "PC1KVudEpvD",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18597,7 +18600,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "C14BcpVSVwz",
+                    "id": "lweCsjEdkzV",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18626,7 +18629,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "uEyfptXIR0b",
+                    "id": "xUTwV9kXjHM",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18655,7 +18658,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ROqpPOpYW1b",
+                    "id": "R0MEqKM27sB",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18684,7 +18687,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ncqvp9bXUru",
+                    "id": "TPF4dzQ8VNE",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18713,7 +18716,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Myx3Cra5p03",
+                    "id": "PewiltMwBji",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18742,7 +18745,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Rl96mNnbAMu",
+                    "id": "hXUN9JVHEW3",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18771,7 +18774,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "KOGq7d0fvxW",
+                    "id": "Yws6BbVWPmR",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18800,7 +18803,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Ly9TpcyGUo1",
+                    "id": "P6uFKA9CCK6",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18829,7 +18832,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "g25iFhsamje",
+                    "id": "PsalPhaaiAN",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18858,7 +18861,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "rYCM0GkvBsa",
+                    "id": "MGKvgYZnDjJ",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18887,7 +18890,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "rSUe3GkwEfV",
+                    "id": "sMaAnNDL6Ws",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18916,7 +18919,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "vLjzsJ8bTTd",
+                    "id": "y7kj1Cyc2pa",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18945,7 +18948,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "nI1XJErSpLv",
+                    "id": "fPZwXHwWYXg",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -18974,7 +18977,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "jAD7uZPCtJO",
+                    "id": "uQ7f6GefTUo",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -19003,7 +19006,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "FBq42mtIQY8",
+                    "id": "J2aXVOXMMKv",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -19032,7 +19035,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "oGIVdvueY6U",
+                    "id": "jkJ3GLj3M5e",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -19061,7 +19064,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "LSt4AdUtLTW",
+                    "id": "KAyWfbniBJa",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -19090,7 +19093,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "UphBuWzos6u",
+                    "id": "QJ068KVShIF",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -19119,7 +19122,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Ip1FSq3RZcW",
+                    "id": "qnlYmewbWCv",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -19148,7 +19151,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "qkJnAO8ljgY",
+                    "id": "mdsRlTfO9NC",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -19177,7 +19180,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "yZiV0bmX08i",
+                    "id": "Q4tA9q8aVXE",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -19206,7 +19209,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "L9V2l1j9znb",
+                    "id": "aumhVJMWOdS",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -19235,7 +19238,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "KKQNhhpYs4A",
+                    "id": "j7KRgRZrWw1",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -19264,7 +19267,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "e5zq82jywZR",
+                    "id": "o6yg2oN2oE0",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -19293,7 +19296,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "d5rS768lXhr",
+                    "id": "DwWWM63ziMc",
                     "programStage": {
                         "id": "fC1QnVBSOa3"
                     },
@@ -19384,7 +19387,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "wicKc1e5vGn",
+                    "id": "xysTACrNJL2",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19413,7 +19416,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "mcra3FJTTao",
+                    "id": "DUbe89nRgqE",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19442,7 +19445,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "XdeyniyEP5W",
+                    "id": "H6HKdbS67bn",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19471,7 +19474,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "iGm8j7Vf4gT",
+                    "id": "w4tsGbFDDNU",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19500,7 +19503,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "uYbNLTes4rF",
+                    "id": "i8P6qERNENc",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19529,7 +19532,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "SDBfD1X1AgD",
+                    "id": "SlZrQHZtmxh",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19558,7 +19561,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "cjx1wcu8uWJ",
+                    "id": "yLePHnNdZdR",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19587,7 +19590,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "l6IsbH1gTiQ",
+                    "id": "lNvXYd8hJq7",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19616,7 +19619,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "siWNwBHc9GA",
+                    "id": "E7iL6SG5r67",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19645,7 +19648,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "E1XW52SELhW",
+                    "id": "xrWnSNuoo3v",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19674,7 +19677,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "vgLBjA7cHJW",
+                    "id": "Wl52vVJT1wa",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19703,7 +19706,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "pPXvTgi7QME",
+                    "id": "l895yCAKO2o",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19732,7 +19735,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "uCi1LgKyhKM",
+                    "id": "YGp8Eeo0VGJ",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19761,7 +19764,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "OZIfZ08zPCv",
+                    "id": "frXRaOcA4TK",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19790,7 +19793,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "YoRyJL7ndiE",
+                    "id": "w4xvf7WCVTz",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19819,7 +19822,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "QxwNOOvO967",
+                    "id": "pnAXQbOy5H9",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19848,7 +19851,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "lM3zRIdTLAn",
+                    "id": "jbnqGt7GSnb",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19877,7 +19880,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "f26ahTrEuzV",
+                    "id": "opLU9rPYpwq",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19906,7 +19909,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "KPorfSVqGvU",
+                    "id": "r6YMdnYYtDC",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19935,7 +19938,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "asOwwgSGPAR",
+                    "id": "T2fwn2XnH0n",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19964,7 +19967,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "mXesRK9E2ZB",
+                    "id": "pPaNskjBgF2",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -19993,7 +19996,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "SZm2eSCXNTL",
+                    "id": "hrHUb5Pjjwm",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -20022,7 +20025,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "j0dsaK02Kv7",
+                    "id": "YKEeblLPoY4",
                     "programStage": {
                         "id": "PkcohXkXNhT"
                     },
@@ -20122,7 +20125,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "h5Jy3mxke6n",
+                    "id": "nBcPO0HJmwR",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20151,7 +20154,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "O2YhT21F7So",
+                    "id": "IXNY9KnWAsW",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20180,7 +20183,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "sN8aHIVGbZx",
+                    "id": "qqtjQtRdXHJ",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20209,7 +20212,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "qXOMj2HqR97",
+                    "id": "lXEsmxJ2Ry4",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20238,7 +20241,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "bArzidYXDX8",
+                    "id": "OkFb9AL5G7J",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20267,7 +20270,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "SDQRSqEwI7y",
+                    "id": "U9hSAljxvEK",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20296,7 +20299,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "XhQ1bRrz9Oj",
+                    "id": "iaNUJ5wLYmV",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20325,7 +20328,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "rmRG3w3BZ9s",
+                    "id": "Fb7OC9f6unE",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20354,7 +20357,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "jAZenD5h9WX",
+                    "id": "brkagxRdRTX",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20383,7 +20386,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "y2Z435rZKgR",
+                    "id": "abB4i8rXomT",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20412,7 +20415,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "IjuPi26TYny",
+                    "id": "H2GYjEKmHjp",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20441,7 +20444,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "NZmasoJYL33",
+                    "id": "cO7fPNs6J7S",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20470,7 +20473,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "cAGhm1anv5e",
+                    "id": "axlQk80Accc",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20499,7 +20502,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "bAUaOrsKYxa",
+                    "id": "h6rfF50eRoN",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20528,7 +20531,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "UfjR0h1uFqM",
+                    "id": "UXXH9Adp4hV",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20557,7 +20560,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "xyq3XyFc6aF",
+                    "id": "eAYtoXZS8uL",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20586,7 +20589,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "YovcIFcXuAH",
+                    "id": "fi90fkux7rk",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20615,7 +20618,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "B3Z3NBptuFS",
+                    "id": "XnAS6VAV08u",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20644,7 +20647,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "HvDaKbT6a0K",
+                    "id": "Df8GSvOKVO1",
                     "programStage": {
                         "id": "kr7zFDXvZLU"
                     },
@@ -20735,7 +20738,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "UiuAVH4e5kt",
+                    "id": "O73UF1RY97B",
                     "programStage": {
                         "id": "eLXTdj2wNZt"
                     },
@@ -20764,7 +20767,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "dRX2fipOh0u",
+                    "id": "lZAwBw7zGOd",
                     "programStage": {
                         "id": "eLXTdj2wNZt"
                     },
@@ -20793,7 +20796,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "AqNw6KNLCXq",
+                    "id": "Z60V8XF0Mqw",
                     "programStage": {
                         "id": "eLXTdj2wNZt"
                     },
@@ -20822,7 +20825,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "nTXEIOEEiBr",
+                    "id": "FmVfetHyRQ9",
                     "programStage": {
                         "id": "eLXTdj2wNZt"
                     },
@@ -20851,7 +20854,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "s0QNiCANwE1",
+                    "id": "HlfU0YIRa5m",
                     "programStage": {
                         "id": "eLXTdj2wNZt"
                     },
@@ -20880,7 +20883,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "e7gmvqGnn3l",
+                    "id": "za5iu4RaclQ",
                     "programStage": {
                         "id": "eLXTdj2wNZt"
                     },
@@ -20909,7 +20912,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ekexgCZXosl",
+                    "id": "vwn136qAXnm",
                     "programStage": {
                         "id": "eLXTdj2wNZt"
                     },
@@ -20938,7 +20941,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "dHm6hD547kP",
+                    "id": "KOdMPCIOe4G",
                     "programStage": {
                         "id": "eLXTdj2wNZt"
                     },
@@ -20967,7 +20970,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "WuZDlxppWlq",
+                    "id": "ZBSopQ98lV8",
                     "programStage": {
                         "id": "eLXTdj2wNZt"
                     },
@@ -20996,7 +20999,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Bu0l9owDo8Q",
+                    "id": "IUJaQJl062C",
                     "programStage": {
                         "id": "eLXTdj2wNZt"
                     },
@@ -21025,7 +21028,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "cnTzFzZW6iT",
+                    "id": "uwu8LToa3S2",
                     "programStage": {
                         "id": "eLXTdj2wNZt"
                     },
@@ -21054,7 +21057,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "YGy0B13C9kX",
+                    "id": "cL6UxoneEkF",
                     "programStage": {
                         "id": "eLXTdj2wNZt"
                     },
@@ -21145,7 +21148,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "TYjAXCJrkYI",
+                    "id": "gwgMqVnRCfx",
                     "programStage": {
                         "id": "d2oxiznc49i"
                     },
@@ -21174,7 +21177,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "sPp4ZXmYiLu",
+                    "id": "dToUWIW6fgQ",
                     "programStage": {
                         "id": "d2oxiznc49i"
                     },
@@ -21267,7 +21270,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "aDoU03e9NAx",
+                    "id": "YQS0JOMMgPt",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21294,7 +21297,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "cQYnGSDtKCf",
+                    "id": "XTAIbY8ws3V",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21321,7 +21324,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "lSpD53JI3zm",
+                    "id": "QIKyvcWlDHm",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21348,7 +21351,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "GmwHkIWJ373",
+                    "id": "oUMy3rLIkqV",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21375,7 +21378,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "nZs4G5nhhgk",
+                    "id": "gWxsJceehDy",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21402,7 +21405,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "uTi0obckWeD",
+                    "id": "jDwp9nuyy3x",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21429,7 +21432,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "qdjSu71xhJV",
+                    "id": "bB8qkMVeasz",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21456,7 +21459,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "lXkoNRZwqEQ",
+                    "id": "jCcAfw7M3TS",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21483,7 +21486,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "P9vmtRXsWXe",
+                    "id": "LA0HivRV8Pk",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21510,7 +21513,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "blOOS0okuW4",
+                    "id": "cCOnZZpLGzh",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21537,7 +21540,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "mbBKIe0nmfm",
+                    "id": "U4BBt2XwvCi",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21564,7 +21567,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "SbVPlDaS9C0",
+                    "id": "XbrcROqXUtb",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21591,7 +21594,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "BpZ63ONiMHd",
+                    "id": "DZkt2aCLmwd",
                     "mandatory": false,
                     "program": {
                         "id": "OdZCeLEJUya"
@@ -21643,7 +21646,7 @@
             },
             "translations": [],
             "useFirstStageDuringRegistration": true,
-            "version": 78
+            "version": 81
         }
     ],
     "reports": [],
@@ -22646,108 +22649,6 @@
             ],
             "unique": false,
             "valueType": "TEXT"
-        },
-        {
-            "aggregationType": "NONE",
-            "attributeValues": [],
-            "code": "TB_REG_NR",
-            "confidential": false,
-            "displayInListNoProgram": true,
-            "displayOnVisitSchedule": false,
-            "formName": "TB registration number",
-            "generated": false,
-            "id": "ntelZthDPpR",
-            "inherit": false,
-            "legendSets": [],
-            "name": "TB registration number",
-            "orgunitScope": false,
-            "pattern": "",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KKKxfgfG9KX": {
-                        "access": "r-------",
-                        "id": "KKKxfgfG9KX"
-                    },
-                    "N3dBbzCFucc": {
-                        "access": "r-------",
-                        "id": "N3dBbzCFucc"
-                    },
-                    "X47wAoL9dvb": {
-                        "access": "rw------",
-                        "id": "X47wAoL9dvb"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TB registration number",
-            "skipSynchronization": false,
-            "translations": [
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "TB número de registro"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB Numéro d'enregistrement "
-                },
-                {
-                    "locale": "ru",
-                    "property": "FORM_NAME",
-                    "value": "Регистрационный номер ТБ"
-                },
-                {
-                    "locale": "es",
-                    "property": "FORM_NAME",
-                    "value": "TB número de registro"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Регистрационный номер ТБ"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB Numéro d'enregistrement "
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "TB número de registro"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "Регистрационный номер ТБ"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "FORM_NAME",
-                    "value": "TB número de registro"
-                },
-                {
-                    "locale": "fr",
-                    "property": "FORM_NAME",
-                    "value": "TB Numéro d'enregistrement "
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "TB número de registro"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "TB número de registro"
-                }
-            ],
-            "unique": true,
-            "valueType": "TEXT"
         }
     ],
     "trackedEntityInstanceFilters": [],
@@ -22825,31 +22726,6 @@
                     },
                     "trackedEntityAttribute": {
                         "id": "ENRjVGxVL6l"
-                    },
-                    "trackedEntityType": {
-                        "id": "MCPQUTHX1Ze"
-                    },
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
-                    "valueType": "TEXT"
-                },
-                {
-                    "attributeValues": [],
-                    "displayInList": false,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "ONeXfm2FIBz",
-                    "name": "Person TB registration number",
-                    "searchable": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "trackedEntityAttribute": {
-                        "id": "ntelZthDPpR"
                     },
                     "trackedEntityType": {
                         "id": "MCPQUTHX1Ze"
