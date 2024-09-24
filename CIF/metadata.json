@@ -1865,7 +1865,7 @@
     "dataElements": [
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -2020,7 +2020,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -2061,7 +2061,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -2597,7 +2597,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -2638,7 +2638,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -2679,7 +2679,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -2758,7 +2758,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -2799,7 +2799,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -2956,7 +2956,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -3035,7 +3035,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -3152,7 +3152,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -3231,7 +3231,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -3310,7 +3310,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -3693,7 +3693,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -3810,7 +3810,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -4155,7 +4155,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -4197,7 +4197,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -4694,7 +4694,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -4735,7 +4735,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -4814,7 +4814,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -4931,7 +4931,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -4972,7 +4972,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -5013,7 +5013,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -5397,7 +5397,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -5438,7 +5438,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -5479,7 +5479,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -5520,7 +5520,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -5561,7 +5561,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -5602,7 +5602,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -5643,7 +5643,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -5798,7 +5798,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -5915,7 +5915,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -5994,7 +5994,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -6035,7 +6035,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -6152,7 +6152,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -6573,7 +6573,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -6614,7 +6614,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -6655,7 +6655,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -6886,7 +6886,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -7346,7 +7346,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -7577,7 +7577,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -7618,7 +7618,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -7659,7 +7659,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -7777,7 +7777,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -7818,7 +7818,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -7973,7 +7973,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -8049,7 +8049,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -8090,7 +8090,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -8473,7 +8473,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -8514,7 +8514,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -8555,7 +8555,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -8634,7 +8634,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -8676,7 +8676,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -8717,7 +8717,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -9367,7 +9367,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -9543,7 +9543,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -9622,7 +9622,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -9663,7 +9663,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -10008,7 +10008,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -10163,7 +10163,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -10546,7 +10546,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -10587,7 +10587,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -10628,7 +10628,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -10669,7 +10669,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -10786,7 +10786,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -10827,7 +10827,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -10869,7 +10869,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -11214,7 +11214,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -11369,7 +11369,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -11410,7 +11410,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -11451,7 +11451,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -11492,7 +11492,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -11533,7 +11533,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -11689,7 +11689,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -11730,7 +11730,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -11771,7 +11771,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -11812,7 +11812,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -11929,7 +11929,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -11970,7 +11970,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -12049,7 +12049,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -12394,7 +12394,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -12435,7 +12435,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -12476,7 +12476,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -13088,7 +13088,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -13433,7 +13433,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -13474,7 +13474,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -13515,7 +13515,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -13557,7 +13557,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -13636,7 +13636,7 @@
         },
         {
             "aggregationLevels": [],
-            "aggregationType": "COUNT",
+            "aggregationType": "NONE",
             "attributeValues": [],
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
@@ -14825,27 +14825,27 @@
         },
         {
             "attributeValues": [],
-            "code": "CS_MPOX_SEXUAL_ORIENTATION",
-            "id": "pIo4kmktjZJ",
-            "name": "CS - MPOX: Sexual orientation",
+            "code": "CS_MPOX_SEXUAL_BEHAVIOR",
+            "id": "SbZOIQfon8m",
+            "name": "CS - MPOX: Sexual behavior",
             "options": [
                 {
-                    "id": "a8jwVJYw7Gy"
+                    "id": "Zl7L4LWMHO9"
                 },
                 {
-                    "id": "WjpTpGsHQaz"
+                    "id": "MTBREQNnS4f"
                 },
                 {
-                    "id": "aB1t4UpMjVB"
+                    "id": "DDstupwzLgw"
                 },
                 {
-                    "id": "reHwg4bFvqe"
+                    "id": "HszYng5EYbx"
                 },
                 {
-                    "id": "CtaYBLmDUpB"
+                    "id": "R0nZd7vvRPO"
                 },
                 {
-                    "id": "bzS4fhq2EpZ"
+                    "id": "DQIgIZxOIe6"
                 }
             ],
             "sharing": {
@@ -14870,7 +14870,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 26
+            "version": 34
         },
         {
             "attributeValues": [],
@@ -17219,10 +17219,10 @@
         {
             "attributeValues": [],
             "code": "BISEXUAL",
-            "id": "reHwg4bFvqe",
+            "id": "HszYng5EYbx",
             "name": "Bisexual",
             "optionSet": {
-                "id": "pIo4kmktjZJ"
+                "id": "SbZOIQfon8m"
             },
             "sortOrder": 4,
             "translations": []
@@ -19861,12 +19861,12 @@
         {
             "attributeValues": [],
             "code": "HETEROSEXUAL",
-            "id": "aB1t4UpMjVB",
+            "id": "Zl7L4LWMHO9",
             "name": "Heterosexual",
             "optionSet": {
-                "id": "pIo4kmktjZJ"
+                "id": "SbZOIQfon8m"
             },
-            "sortOrder": 3,
+            "sortOrder": 1,
             "translations": []
         },
         {
@@ -20930,17 +20930,6 @@
         },
         {
             "attributeValues": [],
-            "code": "LESBIAN",
-            "id": "WjpTpGsHQaz",
-            "name": "Lesbian",
-            "optionSet": {
-                "id": "pIo4kmktjZJ"
-            },
-            "sortOrder": 2,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
             "code": "LS",
             "id": "JBUNAoY2UCR",
             "name": "Lesotho",
@@ -21124,12 +21113,12 @@
         {
             "attributeValues": [],
             "code": "MSM",
-            "id": "a8jwVJYw7Gy",
-            "name": "MSM",
+            "id": "MTBREQNnS4f",
+            "name": "MSM/homosexual or bisexual male",
             "optionSet": {
-                "id": "pIo4kmktjZJ"
+                "id": "SbZOIQfon8m"
             },
-            "sortOrder": 1,
+            "sortOrder": 2,
             "translations": []
         },
         {
@@ -22622,12 +22611,12 @@
         {
             "attributeValues": [],
             "code": "OTHER",
-            "id": "CtaYBLmDUpB",
+            "id": "DQIgIZxOIe6",
             "name": "Other",
             "optionSet": {
-                "id": "pIo4kmktjZJ"
+                "id": "SbZOIQfon8m"
             },
-            "sortOrder": 5,
+            "sortOrder": 6,
             "translations": []
         },
         {
@@ -25562,6 +25551,17 @@
         {
             "attributeValues": [],
             "code": "UNKNOWN",
+            "id": "R0nZd7vvRPO",
+            "name": "Unknown",
+            "optionSet": {
+                "id": "SbZOIQfon8m"
+            },
+            "sortOrder": 5,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "UNKNOWN",
             "id": "S0DzUSPML98",
             "name": "Unknown",
             "optionSet": {
@@ -25623,17 +25623,6 @@
                 "id": "sG4uCsPoSdX"
             },
             "sortOrder": 3,
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "code": "UNKNOWN",
-            "id": "bzS4fhq2EpZ",
-            "name": "Unknown",
-            "optionSet": {
-                "id": "pIo4kmktjZJ"
-            },
-            "sortOrder": 6,
             "translations": []
         },
         {
@@ -26076,6 +26065,17 @@
         },
         {
             "attributeValues": [],
+            "code": "LESBIAN",
+            "id": "DDstupwzLgw",
+            "name": "Women who have sex with women",
+            "optionSet": {
+                "id": "SbZOIQfon8m"
+            },
+            "sortOrder": 3,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
             "code": "WORK_SETTING",
             "id": "cW9sml3BeXq",
             "name": "Work setting",
@@ -26350,7 +26350,7 @@
         "description": "Integrated Disease Surveillance - Mpox Case Surveillance - Case Investigation Form",
         "healthAreaCode": "IDS",
         "healthAreaName": "Integrated Disease Surveillance",
-        "lastUpdated": "20240920T232920",
+        "lastUpdated": "20240924T175213",
         "locale": "en",
         "name": "IDS_MPOX_CIF_TRK_DHIS2.40.4.1-en",
         "type": "TRK",
@@ -26674,6 +26674,17 @@
             "translations": []
         },
         {
+            "id": "VeYJi7iBXqa",
+            "programRule": {
+                "id": "No2l2Fyaur2"
+            },
+            "programRuleActionType": "HIDEPROGRAMSTAGE",
+            "programStage": {
+                "id": "rmMW0vWECag"
+            },
+            "translations": []
+        },
+        {
             "dataElement": {
                 "id": "EIZWBhM6y6u"
             },
@@ -26682,17 +26693,6 @@
                 "id": "TzwMwGIqH3M"
             },
             "programRuleActionType": "HIDEFIELD",
-            "translations": []
-        },
-        {
-            "id": "XDRDdRQikWP",
-            "programRule": {
-                "id": "No2l2Fyaur2"
-            },
-            "programRuleActionType": "HIDEPROGRAMSTAGE",
-            "programStage": {
-                "id": "rmMW0vWECag"
-            },
             "translations": []
         },
         {
@@ -28232,20 +28232,6 @@
         },
         {
             "dataElement": {
-                "id": "R0Du1hbN3jb"
-            },
-            "id": "qpi00sTXzPP",
-            "name": "ANTIRETROVIRAL_TREATMENT_1",
-            "program": {
-                "id": "i1IBpapRGYk"
-            },
-            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
-            "translations": [],
-            "useCodeForOptionSet": true,
-            "valueType": "TEXT"
-        },
-        {
-            "dataElement": {
                 "id": "UU6yzVwNPB7"
             },
             "id": "Zez7NcW2iZ7",
@@ -28347,6 +28333,40 @@
         },
         {
             "dataElement": {
+                "id": "gItzLGL7k7M"
+            },
+            "id": "HqxgADE8lML",
+            "name": "DOE_COMMERCIAL_SEX_VENUE",
+            "program": {
+                "id": "i1IBpapRGYk"
+            },
+            "programRuleVariableSourceType": "DATAELEMENT_NEWEST_EVENT_PROGRAM_STAGE",
+            "programStage": {
+                "id": "qUTGHzM3qvt"
+            },
+            "translations": [],
+            "useCodeForOptionSet": false,
+            "valueType": "TRUE_ONLY"
+        },
+        {
+            "dataElement": {
+                "id": "uaEzqEHo9Qk"
+            },
+            "id": "JbMwOioKFvG",
+            "name": "DOE_COMMUNITY_ACTIVITIES",
+            "program": {
+                "id": "i1IBpapRGYk"
+            },
+            "programRuleVariableSourceType": "DATAELEMENT_NEWEST_EVENT_PROGRAM_STAGE",
+            "programStage": {
+                "id": "qUTGHzM3qvt"
+            },
+            "translations": [],
+            "useCodeForOptionSet": false,
+            "valueType": "TRUE_ONLY"
+        },
+        {
+            "dataElement": {
                 "id": "Fn1C4g1oP6i"
             },
             "id": "w4h3LR1meF5",
@@ -28413,23 +28433,6 @@
             },
             "id": "gN5T9oZDIO0",
             "name": "DOE_LARGE_EVENT_WITH_NO_SEXUAL_CONTACT_PREVIOUS",
-            "program": {
-                "id": "i1IBpapRGYk"
-            },
-            "programRuleVariableSourceType": "DATAELEMENT_NEWEST_EVENT_PROGRAM_STAGE",
-            "programStage": {
-                "id": "qUTGHzM3qvt"
-            },
-            "translations": [],
-            "useCodeForOptionSet": false,
-            "valueType": "TRUE_ONLY"
-        },
-        {
-            "dataElement": {
-                "id": "OzkNDiUWRiB"
-            },
-            "id": "a1DDLNqxYg4",
-            "name": "DOE_LARGE_EVENT_WITH_SEXUAL_CONTACT_PREVIOUS",
             "program": {
                 "id": "i1IBpapRGYk"
             },
@@ -28512,6 +28515,23 @@
             },
             "id": "ywPyAUh3dSA",
             "name": "DOE_SMALL_EVENT_WITH_SEXUAL_CONTACT_PREVIOUS",
+            "program": {
+                "id": "i1IBpapRGYk"
+            },
+            "programRuleVariableSourceType": "DATAELEMENT_NEWEST_EVENT_PROGRAM_STAGE",
+            "programStage": {
+                "id": "qUTGHzM3qvt"
+            },
+            "translations": [],
+            "useCodeForOptionSet": false,
+            "valueType": "TRUE_ONLY"
+        },
+        {
+            "dataElement": {
+                "id": "GXh8OqgMMm9"
+            },
+            "id": "qnY7NLhjHss",
+            "name": "DOE_SOCIAL_EVENT_SEXUAL_CONTACT",
             "program": {
                 "id": "i1IBpapRGYk"
             },
@@ -29075,7 +29095,7 @@
             },
             "programRuleVariableSourceType": "TEI_ATTRIBUTE",
             "trackedEntityAttribute": {
-                "id": "OlwG8hf97hS"
+                "id": "NPxlhUSIWi6"
             },
             "translations": [],
             "useCodeForOptionSet": true,
@@ -29334,13 +29354,13 @@
                     "id": "c8xg63970NF"
                 },
                 {
-                    "id": "chU7QYnjLBm"
-                },
-                {
                     "id": "wJxQPmmYDYI"
                 },
                 {
                     "id": "LKXZ1odNnoE"
+                },
+                {
+                    "id": "chU7QYnjLBm"
                 }
             ],
             "translations": []
@@ -29378,7 +29398,7 @@
             "translations": []
         },
         {
-            "condition": "!d2:hasValue('DOE_WORKPLACE_PREVIOUS')&&!d2:hasValue('DOE_SCHOOL_NURSERY_PREVIOUS')&&\n!d2:hasValue('DOE_SMALL_EVENT_WITH_SEXUAL_CONTACT_PREVIOUS')&&!d2:hasValue('DOE_SMALL_EVENT_NO_SEXUAL_CONTACT_PREVIOUS')&&\n!d2:hasValue('DOE_LARGE_EVENT_WITH_NO_SEXUAL_CONTACT_PREVIOUS')&&!d2:hasValue('DOE_LARGE_EVENT_WITH_SEXUAL_CONTACT_PREVIOUS')&&\n!d2:hasValue('DOE_UNKNOWN_PREVIOUS')&&!d2:hasValue('DOE_OTHER_PREVIOUS')",
+            "condition": "!d2:hasValue('DOE_WORKPLACE_PREVIOUS')&&\n!d2:hasValue('DOE_SCHOOL_NURSERY_PREVIOUS')&&\n!d2:hasValue('DOE_COMMUNITY_ACTIVITIES')&&\n!d2:hasValue('DOE_COMMERCIAL_SEX_VENUE')&&\n!d2:hasValue('DOE_SOCIAL_EVENT_SEXUAL_CONTACT')&&\n!d2:hasValue('DOE_UNKNOWN_PREVIOUS')&&\n!d2:hasValue('DOE_OTHER_PREVIOUS')",
             "description": "Hide \"Sexual activity\" stage if exposure is household or healthcare",
             "id": "No2l2Fyaur2",
             "name": "CS - MPOX: Hide \"Sexual activity\" stage if exposure is household or healthcare",
@@ -29388,7 +29408,7 @@
             },
             "programRuleActions": [
                 {
-                    "id": "XDRDdRQikWP"
+                    "id": "VeYJi7iBXqa"
                 }
             ],
             "translations": []
@@ -29493,16 +29513,16 @@
             },
             "programRuleActions": [
                 {
-                    "id": "p4D7VhjNyd7"
-                },
-                {
-                    "id": "T3zystIOel0"
-                },
-                {
                     "id": "hNr44PUMj7K"
                 },
                 {
+                    "id": "p4D7VhjNyd7"
+                },
+                {
                     "id": "eHAH4ebuaM8"
+                },
+                {
+                    "id": "T3zystIOel0"
                 },
                 {
                     "id": "W9enmKVCbbm"
@@ -29918,10 +29938,10 @@
                     "id": "GBMD36s61jx"
                 },
                 {
-                    "id": "fVyFh81lRlr"
+                    "id": "DFPt1sRBJ3S"
                 },
                 {
-                    "id": "DFPt1sRBJ3S"
+                    "id": "fVyFh81lRlr"
                 },
                 {
                     "id": "HEUJUSFcH8g"
@@ -30013,10 +30033,10 @@
             },
             "programRuleActions": [
                 {
-                    "id": "KO5Q8ZuP9up"
+                    "id": "crcrMuZSJWm"
                 },
                 {
-                    "id": "crcrMuZSJWm"
+                    "id": "KO5Q8ZuP9up"
                 },
                 {
                     "id": "EoaFVh3F4Q1"
@@ -30462,10 +30482,10 @@
             },
             "programRuleActions": [
                 {
-                    "id": "BV4AG7Q5ftT"
+                    "id": "uGExxUPj0Cc"
                 },
                 {
-                    "id": "uGExxUPj0Cc"
+                    "id": "BV4AG7Q5ftT"
                 }
             ],
             "translations": []
@@ -30484,10 +30504,10 @@
                     "id": "SL2NPkIkJpb"
                 },
                 {
-                    "id": "w04kebYDrCf"
+                    "id": "ST2V24XHlFR"
                 },
                 {
-                    "id": "ST2V24XHlFR"
+                    "id": "w04kebYDrCf"
                 },
                 {
                     "id": "CXOlqYUrmt7"
@@ -30771,7 +30791,7 @@
                     "id": "nRM6g9ujmQ8"
                 },
                 {
-                    "id": "OlwG8hf97hS"
+                    "id": "NPxlhUSIWi6"
                 },
                 {
                     "id": "vpDFn0i0roR"
@@ -31193,9 +31213,6 @@
                 },
                 {
                     "id": "HgNwK9u1svK"
-                },
-                {
-                    "id": "cvx3NONVvhS"
                 }
             ],
             "id": "YrHPEus6G0i",
@@ -31474,7 +31491,7 @@
             "programStage": {
                 "id": "qUTGHzM3qvt"
             },
-            "sortOrder": 10,
+            "sortOrder": 11,
             "translations": []
         },
         {
@@ -31495,7 +31512,7 @@
             "programStage": {
                 "id": "qUTGHzM3qvt"
             },
-            "sortOrder": 9,
+            "sortOrder": 10,
             "translations": []
         },
         {
@@ -31522,7 +31539,7 @@
             "programStage": {
                 "id": "qUTGHzM3qvt"
             },
-            "sortOrder": 8,
+            "sortOrder": 9,
             "translations": []
         },
         {
@@ -31540,7 +31557,7 @@
             "programStage": {
                 "id": "qUTGHzM3qvt"
             },
-            "sortOrder": 1,
+            "sortOrder": 8,
             "translations": []
         },
         {
@@ -31684,7 +31701,7 @@
             "programStage": {
                 "id": "qUTGHzM3qvt"
             },
-            "sortOrder": 0,
+            "sortOrder": 1,
             "translations": []
         },
         {
@@ -38146,9 +38163,6 @@
                     "id": "iUI67fTPTrD"
                 },
                 {
-                    "id": "lymce36QI5C"
-                },
-                {
                     "id": "QOx2QNdpQyJ"
                 },
                 {
@@ -38165,6 +38179,9 @@
                 },
                 {
                     "id": "Z8eZF7B9lPQ"
+                },
+                {
+                    "id": "lymce36QI5C"
                 },
                 {
                     "id": "u04J6b1Fv31"
@@ -40744,33 +40761,6 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "IqPUQ5wetf8",
-                    "mandatory": false,
-                    "program": {
-                        "id": "i1IBpapRGYk"
-                    },
-                    "renderOptionsAsRadio": false,
-                    "searchable": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "sortOrder": 26,
-                    "trackedEntityAttribute": {
-                        "id": "OlwG8hf97hS"
-                    },
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
-                    "valueType": "TEXT"
-                },
-                {
-                    "attributeValues": [],
-                    "displayInList": false,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
                     "id": "YdL80vYaX9Y",
                     "mandatory": false,
                     "program": {
@@ -40783,7 +40773,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 27,
+                    "sortOrder": 26,
                     "trackedEntityAttribute": {
                         "id": "vpDFn0i0roR"
                     },
@@ -40810,7 +40800,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 28,
+                    "sortOrder": 27,
                     "trackedEntityAttribute": {
                         "id": "qGf5nyahWrO"
                     },
@@ -40837,7 +40827,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 29,
+                    "sortOrder": 28,
                     "trackedEntityAttribute": {
                         "id": "hBcoBCZBWFb"
                     },
@@ -40864,7 +40854,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 30,
+                    "sortOrder": 29,
                     "trackedEntityAttribute": {
                         "id": "sOFTB39DBhO"
                     },
@@ -40891,7 +40881,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 31,
+                    "sortOrder": 30,
                     "trackedEntityAttribute": {
                         "id": "jFZFXOCI9he"
                     },
@@ -40918,7 +40908,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 32,
+                    "sortOrder": 31,
                     "trackedEntityAttribute": {
                         "id": "E7H2KnivGfm"
                     },
@@ -40945,7 +40935,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 33,
+                    "sortOrder": 32,
                     "trackedEntityAttribute": {
                         "id": "wV4pOAVE36j"
                     },
@@ -40972,36 +40962,9 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 34,
+                    "sortOrder": 33,
                     "trackedEntityAttribute": {
                         "id": "LK9ZPRvaJqP"
-                    },
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
-                    "valueType": "TEXT"
-                },
-                {
-                    "attributeValues": [],
-                    "displayInList": false,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "MKNX5NX6mVH",
-                    "mandatory": false,
-                    "program": {
-                        "id": "i1IBpapRGYk"
-                    },
-                    "renderOptionsAsRadio": false,
-                    "searchable": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "sortOrder": 35,
-                    "trackedEntityAttribute": {
-                        "id": "VVBPtP9X43M"
                     },
                     "translations": [],
                     "userAccesses": [],
@@ -41026,7 +40989,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 36,
+                    "sortOrder": 34,
                     "trackedEntityAttribute": {
                         "id": "hBCSdY3DqPA"
                     },
@@ -41053,7 +41016,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 37,
+                    "sortOrder": 35,
                     "trackedEntityAttribute": {
                         "id": "Y0EtewfcTRm"
                     },
@@ -41080,7 +41043,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 38,
+                    "sortOrder": 36,
                     "trackedEntityAttribute": {
                         "id": "HEgHIrl7fsf"
                     },
@@ -41107,7 +41070,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 39,
+                    "sortOrder": 37,
                     "trackedEntityAttribute": {
                         "id": "pUFSFJiwGwC"
                     },
@@ -41134,7 +41097,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 40,
+                    "sortOrder": 38,
                     "trackedEntityAttribute": {
                         "id": "Z2DTnleyD0r"
                     },
@@ -41161,7 +41124,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 41,
+                    "sortOrder": 39,
                     "trackedEntityAttribute": {
                         "id": "SZerDXKlayy"
                     },
@@ -41188,7 +41151,7 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 42,
+                    "sortOrder": 40,
                     "trackedEntityAttribute": {
                         "id": "hNQDrhSpU21"
                     },
@@ -41215,9 +41178,63 @@
                         "userGroups": {},
                         "users": {}
                     },
-                    "sortOrder": 43,
+                    "sortOrder": 41,
                     "trackedEntityAttribute": {
                         "id": "tlLqxlICiYn"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "attributeValues": [],
+                    "displayInList": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "opFYAJOt8Xd",
+                    "mandatory": false,
+                    "program": {
+                        "id": "i1IBpapRGYk"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 42,
+                    "trackedEntityAttribute": {
+                        "id": "VVBPtP9X43M"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "attributeValues": [],
+                    "displayInList": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "Y8wLq0pEpY4",
+                    "mandatory": false,
+                    "program": {
+                        "id": "i1IBpapRGYk"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 43,
+                    "trackedEntityAttribute": {
+                        "id": "NPxlhUSIWi6"
                     },
                     "translations": [],
                     "userAccesses": [],
@@ -41255,7 +41272,7 @@
             },
             "translations": [],
             "useFirstStageDuringRegistration": false,
-            "version": 75
+            "version": 76
         }
     ],
     "reports": [],
@@ -42487,18 +42504,19 @@
         {
             "aggregationType": "COUNT",
             "attributeValues": [],
-            "code": "CS_MPOX_SEXUAL_BEHAVIOUR",
+            "code": "CS_MPOX_CRF_SEXUAL_BEHAVIOR",
             "confidential": false,
+            "description": "Sexual behavior of the case",
             "displayInListNoProgram": false,
             "displayOnVisitSchedule": false,
-            "formName": "Sexual behaviour",
+            "formName": "Sexual behavior",
             "generated": false,
-            "id": "OlwG8hf97hS",
+            "id": "NPxlhUSIWi6",
             "inherit": false,
             "legendSets": [],
-            "name": "CS - MPOX: Sexual behaviour",
+            "name": "CS - MPOX: Sexual behavior",
             "optionSet": {
-                "id": "pIo4kmktjZJ"
+                "id": "SbZOIQfon8m"
             },
             "orgunitScope": false,
             "pattern": "",
@@ -42522,7 +42540,7 @@
                 },
                 "users": {}
             },
-            "shortName": "Sexual behaviour",
+            "shortName": "Sexual behavior",
             "skipSynchronization": false,
             "translations": [],
             "unique": false,
