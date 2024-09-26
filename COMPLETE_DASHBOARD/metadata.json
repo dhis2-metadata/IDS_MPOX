@@ -331,7 +331,55 @@
     ],
     "eventVisualizations": [],
     "indicatorGroupSets": [],
-    "indicatorGroups": [],
+    "indicatorGroups": [
+        {
+            "attributeValues": [],
+            "code": "MPOX_AGG",
+            "id": "x9Oi6Ehdhmc",
+            "indicators": [
+                {
+                    "id": "T2m6Z5cV9rX"
+                },
+                {
+                    "id": "R4j7M3pY9vL"
+                },
+                {
+                    "id": "A9bT6nX3Zk2"
+                },
+                {
+                    "id": "G2m9T5lQ7xR"
+                },
+                {
+                    "id": "M8a4Q2bW7nH"
+                },
+                {
+                    "id": "F7w2B6zN8dK"
+                }
+            ],
+            "name": "IDS - Mpox",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KKKxfgfG9KX": {
+                        "access": "r-------",
+                        "id": "KKKxfgfG9KX"
+                    },
+                    "N3dBbzCFucc": {
+                        "access": "r-------",
+                        "id": "N3dBbzCFucc"
+                    },
+                    "X47wAoL9dvb": {
+                        "access": "rw------",
+                        "id": "X47wAoL9dvb"
+                    }
+                },
+                "users": {}
+            },
+            "translations": []
+        }
+    ],
     "indicatorTypes": [
         {
             "code": "GEN_LIB_NUMBER_ONLY",
@@ -530,6 +578,43 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "IDS_MPOX_ATTACK_%",
+            "denominator": -1,
+            "denominatorDescription": "Population at risk over a specific period of time",
+            "id": "A9bT6nX3Zk2",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] IDS - Mpox - Attack rate (%)",
+            "numerator": -1,
+            "numeratorDescription": "Number of confirmed cases during the reporting week",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KKKxfgfG9KX": {
+                        "access": "r-------",
+                        "id": "KKKxfgfG9KX"
+                    },
+                    "N3dBbzCFucc": {
+                        "access": "r-------",
+                        "id": "N3dBbzCFucc"
+                    },
+                    "X47wAoL9dvb": {
+                        "access": "rw------",
+                        "id": "X47wAoL9dvb"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Mpox Attack rate (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "IDS_MPOX_INCIDENCE",
             "denominator": -1,
             "denominatorDescription": "Population at risk over a specific period of time",
@@ -604,43 +689,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "IDS_MPOX_CONFIRMED",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "id": "C4j8P2tY6mQ",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] IDS - Mpox confirmed cases",
-            "numerator": -1,
-            "numeratorDescription": "Number of confirmed cases during the reporting week",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KKKxfgfG9KX": {
-                        "access": "r-------",
-                        "id": "KKKxfgfG9KX"
-                    },
-                    "N3dBbzCFucc": {
-                        "access": "r-------",
-                        "id": "N3dBbzCFucc"
-                    },
-                    "X47wAoL9dvb": {
-                        "access": "rw------",
-                        "id": "X47wAoL9dvb"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Mpox confirmed cases",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "IDS_MPOX_CONFIRMED_%",
             "denominator": -1,
             "denominatorDescription": "Number of suspected cases reported during the week",
@@ -673,6 +721,117 @@
                 "users": {}
             },
             "shortName": "Mpox confirmed cases (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "IDS_MPOX_LAB_CONFIMED_ALLCLADE",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "F7w2B6zN8dK",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] IDS - Mpox lab confirmed (all Clade)",
+            "numerator": -1,
+            "numeratorDescription": "Number of cases confirmed by PCR - all clades",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KKKxfgfG9KX": {
+                        "access": "r-------",
+                        "id": "KKKxfgfG9KX"
+                    },
+                    "N3dBbzCFucc": {
+                        "access": "r-------",
+                        "id": "N3dBbzCFucc"
+                    },
+                    "X47wAoL9dvb": {
+                        "access": "rw------",
+                        "id": "X47wAoL9dvb"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Mpox lab confirmed (all Clade)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "IDS_MPOX_SUSPECTED_TESTED",
+            "denominator": -1,
+            "denominatorDescription": "Number of suspected cases reported during the week",
+            "id": "R4j7M3pY9vL",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] IDS - Mpox suspected cases tested (%)",
+            "numerator": -1,
+            "numeratorDescription": "Number of cases confirmed by PCR - all clades",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KKKxfgfG9KX": {
+                        "access": "r-------",
+                        "id": "KKKxfgfG9KX"
+                    },
+                    "N3dBbzCFucc": {
+                        "access": "r-------",
+                        "id": "N3dBbzCFucc"
+                    },
+                    "X47wAoL9dvb": {
+                        "access": "rw------",
+                        "id": "X47wAoL9dvb"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Mpox suspected cases tested (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "IDS_MPOX_CONFIRMED",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "C4j8P2tY6mQ",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] IDS - Mpox confirmed cases",
+            "numerator": -1,
+            "numeratorDescription": "Number of confirmed cases during the reporting week",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KKKxfgfG9KX": {
+                        "access": "r-------",
+                        "id": "KKKxfgfG9KX"
+                    },
+                    "N3dBbzCFucc": {
+                        "access": "r-------",
+                        "id": "N3dBbzCFucc"
+                    },
+                    "X47wAoL9dvb": {
+                        "access": "rw------",
+                        "id": "X47wAoL9dvb"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Mpox confirmed cases",
             "translations": []
         },
         {
@@ -752,43 +911,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "IDS_MPOX_LAB_CONFIMED_ALLCLADE",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "id": "F7w2B6zN8dK",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] IDS - Mpox lab confirmed (all Clade)",
-            "numerator": -1,
-            "numeratorDescription": "Number of cases confirmed by PCR - all clades",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KKKxfgfG9KX": {
-                        "access": "r-------",
-                        "id": "KKKxfgfG9KX"
-                    },
-                    "N3dBbzCFucc": {
-                        "access": "r-------",
-                        "id": "N3dBbzCFucc"
-                    },
-                    "X47wAoL9dvb": {
-                        "access": "rw------",
-                        "id": "X47wAoL9dvb"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Mpox lab confirmed (all Clade)",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "IDS_MPOX_PROBABLE",
             "denominator": -1,
             "denominatorDescription": "1",
@@ -858,43 +980,6 @@
                 "users": {}
             },
             "shortName": "Mpox suspected Cases",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "IDS_MPOX_SUSPECTED_TESTED",
-            "denominator": -1,
-            "denominatorDescription": "Number of suspected cases reported during the week",
-            "id": "R4j7M3pY9vL",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] IDS - Mpox suspected cases tested (%)",
-            "numerator": -1,
-            "numeratorDescription": "Number of cases confirmed by PCR - all clades",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KKKxfgfG9KX": {
-                        "access": "r-------",
-                        "id": "KKKxfgfG9KX"
-                    },
-                    "N3dBbzCFucc": {
-                        "access": "r-------",
-                        "id": "N3dBbzCFucc"
-                    },
-                    "X47wAoL9dvb": {
-                        "access": "rw------",
-                        "id": "X47wAoL9dvb"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Mpox suspected cases tested (%)",
             "translations": []
         }
     ],
@@ -1198,7 +1283,7 @@
         "description": "Integrated Disease Surveillance - Mpox (dashboard)",
         "healthAreaCode": "IDS",
         "healthAreaName": "Integrated Disease Surveillance",
-        "lastUpdated": "20240926T190844",
+        "lastUpdated": "20240926T192358",
         "locale": "en",
         "name": "MPOX_AGG_DSH_DHIS2.40.4.1-en",
         "type": "DSH",
