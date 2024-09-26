@@ -1,2 +1,2 @@
-# IDS_MPOX_AGG
+# MPOX_AGG
 Integrated Disease Surveillance - Mpox
