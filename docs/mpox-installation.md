@@ -5,11 +5,11 @@ DHIS2 version: D2.40 (and above)
 System default language: English
 
 Components:
-1. [IDS-MPOX Surveillance Aggregate package](#ids-mpox-surveillance-aggregate-package)
-2. [IDS-MPOX Surveillance Dashboard package](#ids-mpox-surveillance-dashboard-package)
-3. [IDS-MPOX Case Surveillance CRF (Case Report form) tracker](#ids-mpox-case-surveillance-crf-tracker)
-4. IDS-MPOX Case Surveillance - CIF (Case Investigation Form) tracker (Available soon)
-5. IDS-MPOX - Complete package
+1. [MPOX Surveillance Aggregate package](#mpox-surveillance-aggregate-package)
+2. [MPOX Surveillance Dashboard package](#mpox-surveillance-dashboard-package)
+3. [MPOX Case Surveillance CRF (Case Report form) tracker](#mpox-case-surveillance-crf-tracker)
+4. MPOX Case Surveillance - CIF (Case Investigation Form) tracker (Available soon)
+5. MPOX - Complete package
 
 ## Installation
 
@@ -41,7 +41,7 @@ While not always necessary, it can often required to make certain modifications 
 
 ## Selection of required component
 
-### IDS-MPOX Surveillance Aggregate Package
+### MPOX Surveillance Aggregate Package
 
 The package contains:
 - 1 weekly data set
@@ -55,7 +55,7 @@ Some indicators will require population data in denominators. There are 2 ways t
 1. Total population data can be mapped to the included Generic data element
 2. Implementer can replace denominator data elements with the ones present in the system.
 
-### IDS-MPOX Surveillance Dashboard package
+### MPOX Surveillance Dashboard package
 
 The package contains:
 - 1 preconfigured dashboard
@@ -63,7 +63,7 @@ The package contains:
 
 When installing this package, implementers will have to map existing data elements to the corresponding numerators and denominators of the included indicators.
 
-### IDS-MPOX Case Surveillance CRF tracker
+### MPOX Case Surveillance CRF tracker
 
 This package contains metadata that is aligned with CRF reporting requirements. The package should be used together with the **IDS-MPOX Surveillance Aggrgate package**. Data from the CRF tracker needs to be aggregated with help of program indicators and populate data elements in the aggregate data set for further otput purposes. Current version of this package does not include any **program indicators** and **aggregate data exchanges**. These will be added as the requirements for data collection and data analysis get formalised.
 
