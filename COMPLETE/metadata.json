@@ -1044,6 +1044,7 @@
                     "id": "UPvKbcqTEY3"
                 }
             ],
+            "code": "0_4_YEARS",
             "id": "YgSzuXIfed6",
             "ignoreApproval": false,
             "name": "0-4 years",
@@ -1135,6 +1136,7 @@
                     "id": "afpMrUgPzl3"
                 }
             ],
+            "code": "MORE_5_YEARS",
             "id": "EW1nknsma47",
             "ignoreApproval": false,
             "name": "5+ years",
@@ -2573,32 +2575,50 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "kb5ALqa3Dxc"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iNshzGY00V9"
+                        "id": "B28rjUGyXJn"
+                    },
+                    "dataSet": {
+                        "id": "EZHrLLl8gYx"
                     }
                 },
                 {
                     "dataElement": {
                         "id": "Fffxbp12KPQ"
+                    },
+                    "dataSet": {
+                        "id": "EZHrLLl8gYx"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iNshzGY00V9"
+                    },
+                    "dataSet": {
+                        "id": "EZHrLLl8gYx"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kb5ALqa3Dxc"
+                    },
+                    "dataSet": {
+                        "id": "EZHrLLl8gYx"
                     }
                 },
                 {
                     "dataElement": {
                         "id": "SrRC7ZT7Hqk"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "B28rjUGyXJn"
+                    },
+                    "dataSet": {
+                        "id": "EZHrLLl8gYx"
                     }
                 },
                 {
                     "dataElement": {
                         "id": "GneT1bovkBP"
+                    },
+                    "dataSet": {
+                        "id": "EZHrLLl8gYx"
                     }
                 }
             ],
@@ -3603,7 +3623,7 @@
         "description": "Integrated Disease Surveillance - Mpox (aggregate)",
         "healthAreaCode": "IDS",
         "healthAreaName": "Integrated Disease Surveillance",
-        "lastUpdated": "20240926T193047",
+        "lastUpdated": "20240927T122807",
         "locale": "en",
         "name": "MPOX_AGG_AGG_DHIS2.40.4.1-en",
         "type": "AGG",
