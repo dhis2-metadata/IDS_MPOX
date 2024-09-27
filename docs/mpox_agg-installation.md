@@ -9,7 +9,6 @@ Components:
 2. [MPOX Surveillance Dashboard package](#mpox-surveillance-dashboard-package)
 3. [MPOX Case Surveillance CRF (Case Report form) tracker](#mpox-case-surveillance-crf-tracker)
 4. MPOX Case Surveillance - CIF (Case Investigation Form) tracker (Available soon)
-5. MPOX - Complete package
 
 ## Installation
 
@@ -65,11 +64,13 @@ When installing this package, implementers will have to map existing data elemen
 
 ### MPOX Case Surveillance CRF tracker
 
-This package contains metadata that is aligned with CRF reporting requirements. The package should be used together with the **IDS-MPOX Surveillance Aggrgate package**. Data from the CRF tracker needs to be aggregated with help of program indicators and populate data elements in the aggregate data set for further otput purposes. Current version of this package does not include any **program indicators** and **aggregate data exchanges**. These will be added as the requirements for data collection and data analysis get formalised.
+This package contains metadata that is aligned with CRF reporting requirements. The package should be used together with the **MPOX Surveillance Aggrgate package**. Data from the CRF tracker needs to be aggregated with help of program indicators and populate data elements in the aggregate data set for further otput purposes. Current version of this package does not include any **program indicators** and **aggregate data exchanges**. These will be added as the requirements for data collection and data analysis get formalised.
 
-IDS-MPOX Case Surveillance CRF tracker will be extended with additional metadata required for CIF reporting. Implementations will be able to use the tracker for both purposes and define access to the corresponding components on the level of User Group access.
+MPOX Case Surveillance CRF tracker will be extended with additional metadata required for CIF reporting. Implementations will be able to use the tracker for both purposes and define access to the corresponding components on the level of User Group access.
 
 It is also possible to use the tracker either for CRF or CIF reporting. The modular configuration of the tracker will allow the user to include or exclude unnecessary metadata objects.
 
+### MPOX Case Surveillance CIF tracker
 
+Information coming soon
 
