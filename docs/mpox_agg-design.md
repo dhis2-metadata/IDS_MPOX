@@ -19,7 +19,7 @@ The Toolkit for Mpox Surveillance comprises:
 - **A Tracker for the Case Investigation Form (CIF)**
 
 > **Note:**
-> **The metadata packages are built as stand-alone modules**, while the examples available in the Mpox [Demo](https://metadata.dev.dhis2.org/mpox) are shown as embedded in the IDS and in the Case-based surveillance (CBS) standard toolkits. The concept of maintaining this as a stand-alone module is intended to streamline its adoption, recognizing that full integration of the standard toolkits may have not been fully realized in many implementations. By offering a more focused and simplified module, it becomes easier for stakeholders to adopt without the need for complex systems overhaul or integration. This modular approach allows for gradual uptake while ensuring that essential elements of the toolkit are implemented effectively, even in environments where the broader IDS and CBS systems may not yet be fully established.
+> **The metadata packages are built as stand-alone modules**. The concept of maintaining this as a stand-alone module is intended to streamline its adoption, recognizing that full integration of the standard toolkits may have not been fully realized in many implementations. By offering a more focused and simplified module, it becomes easier for stakeholders to adopt without the need for complex systems overhaul or integration. This modular approach allows for gradual uptake while ensuring that essential elements of the toolkit are implemented effectively, even in environments where the broader IDS and CBS systems may not yet be fully established.
 
 ### Aggregate IDS Mpox Design
 
@@ -89,10 +89,10 @@ The Mpox CIF self-standing design includes the enrollment and **14 stages** ( 6 
 
 The design of the CIF follows the one published by the WHO on the 09/09/2024 [Mpox Case Investigation Form (CIF) and minimum dataset Case Reporting Form (CRF)](https://cdn.who.int/media/docs/default-source/documents/health-topics/monkeypox/mpox_cif-narrative_epi_20240904.pdf?sfvrsn=500a0660_1).
 
-A set of Program Indicators have been developed to populate the aggregate data set “Mpox surveillance” present in the IDS Mpox module via the Data Exchange app (payload included in the json)
+A set of Program Indicators have been developed to populate the aggregate data set “Mpox surveillance” present in the IDS Mpox module via the Data Exchange app (payload included in the json).
 
 >**Note:**
-> Program indicators use custom period boundaries to report cases based on their diagnosis date instead of the notification date (in this case used as Enrollment date)
+> Program indicators use custom period boundaries to report cases based on their diagnosis date instead of the notification date (in this case used as Enrollment date).
 
 ### Use of CRF vs CIF
 
@@ -115,7 +115,7 @@ To enhance the possibility of scaling up the data collection tools and easily in
 
 If there is a need to disaggregate the percentage by specific age/sex group, a separate indicator with that particular group in the numerator has to be created. The denominator should represent the total. This value can either be aggregated using a predictor or extracted from the corresponding tracker (if used).
 
-If age/sex disaggregations are not required for the indicator, this note can be disregarded
+If age/sex disaggregations are not required for the indicator, this note can be disregarded.
 
 ### Dashboard
 
