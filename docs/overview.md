@@ -23,5 +23,5 @@
 
 ## Resources
 
-- [CIF-CRF mapping](resources/crf_cif_mapping.xlsx)
+- [CRF-CIF mapping](resources/crf_cif_mapping.xlsx)
   
