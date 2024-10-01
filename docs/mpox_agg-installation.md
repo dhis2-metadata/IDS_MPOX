@@ -1,4 +1,4 @@
-# Mpox Surveillance packages - Insatllation Guide
+# Mpox Surveillance packages - Insatllation Guide ( #mpox-installation )
 
 Package version: 0.0.1
 DHIS2 version: D2.40 (and above)
