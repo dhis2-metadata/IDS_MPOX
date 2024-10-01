@@ -25,7 +25,7 @@ The Toolkit for Mpox Surveillance comprises:
 
 The toolkit provides essential information required for reporting within an IDS system. The packaged dataset follows a flat structure, divided into two key sections: one for surveillance and one for laboratory results. The age disaggregation is set at 0-4 and 5+ years to align with the global IDS standard, but implementers have the flexibility to modify these categories to better suit local designs and requirements.
 
-![Mpox IDS dataset](resources/image/mpox_001)
+![Mpox IDS dataset](resources/images/mpox_001.png)
 
 In the mpox demo, the dataset is integrated into the existing IDS global toolkit. Mpox-related metadata can be found in the custom dataset titled “IDS - Report: Suspected, Confirmed, Death”, “IDS - Report: Suspected, Death” and within the “IDS - Aggregate Lab Weekly Report.”
 
@@ -40,7 +40,7 @@ The CRF is an essential tool for standardising data collection and reporting for
 
 The Mpox CRF self-standing design includes the enrollment and six stages (three non-repeatable - NR-, and two repeatable -R-)
 
-![Mpox CRF program structure](resources/image/mpox_005)
+![Mpox CRF program structure](resources/images/mpox_005.png)
 
 | **Stage**                  | **Information collected**    |
 |------------------------|--------------------------|
@@ -67,7 +67,7 @@ While the CRF contains high-level information, ensuring cases are reported promp
 
 The Mpox CIF self-standing design includes the enrollment and **14 stages** ( 6 non-repeatable -NR-, and 8 repeatable -R-)
 
-![Mpox CIF program structure](resources/image/mpox_006)
+![Mpox CIF program structure](resources/images/mpox_006.png)
 
 | **Stage**                                        | **Description**                                                                                                                                                                                                                                                                                                                                                                                                |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -103,7 +103,7 @@ To enhance the possibility of scaling up the data collection tools and easily in
 - Multioption required in one module and not in another (e.g.Hospitalisation, Animal type/contact group)
 - 2/110 (2%) CRF metadata has no match in the CIF
 
-[Here](resources/files/CRF_CIF_mapping) you can find the mapping of metadata between the two programs.
+[Here](resources/crf_cif_mapping.xlsx) you can find the mapping of metadata between the two programs.
 
 **The modular composition of both CRF and CIF enhance the possibility of integrating or removal of specific stages/sections based on the implementation needs.**
 
@@ -121,7 +121,7 @@ If age/sex disaggregations are not required for the indicator, this note can be 
 
 The Mpox metadata is displayed in a single dashboard titled “IDS-Mpox”. This dashboard is dedicated to mpox-related metadata; however, depending on local implementation needs, users have the **flexibility** to either integrate these visualizations into existing surveillance dashboards or maintain them as a standalone mpox-specific dashboard.
 
-![Mpox dashboard](resources/image/mpox_002)
+![Mpox dashboard](resources/images/mpox_002.png)
 
 The IDS-Mpox dashboard is designed to be straightforward, presenting core indicators as outlined in the 2024 interim guidance. It includes:
 
