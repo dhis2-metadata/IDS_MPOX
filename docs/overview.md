@@ -1,4 +1,4 @@
-# Mpox Surveillance
+# Mpox Surveillance { #mpox-release-note }
 
 ## Release Note
 
