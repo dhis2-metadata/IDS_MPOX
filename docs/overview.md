@@ -1,8 +1,8 @@
-# Mpox Surveillance { #mpox-release-note }
+# Mpox Surveillance
 
 ## Release Note
 
-- [Release Note](#mpox-agg-release-note)
+- [Release Note](#mpox-release-note)
 
 ## Design
 
