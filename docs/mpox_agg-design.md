@@ -1,4 +1,4 @@
-# Mpox Surveillance Toolkit
+# Mpox Surveillance Toolkit ( #mpox-design )
 
 **Version 0.0.1**
 
