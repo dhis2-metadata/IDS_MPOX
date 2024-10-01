@@ -1,4 +1,4 @@
-# Release Note { #mpox-agg-release-note }
+# Release Note { #mpox-release-note }
 
 ## 0.0.1
 
